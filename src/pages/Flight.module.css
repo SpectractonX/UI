@@ -1,0 +1,1034 @@
+.flightChild {
+  position: absolute;
+  top: -186px;
+  left: -149px;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod);
+  width: 592px;
+  height: 601px;
+}
+.flightInner,
+.flightItem {
+  position: absolute;
+  top: 31px;
+  left: -227px;
+  width: 2895px;
+  height: 2453px;
+}
+.flightInner {
+  top: 217px;
+  left: 177px;
+  border-radius: 20px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0.1px 50px 2px 10px rgba(0, 0, 0, 0.03);
+  width: 2302px;
+  height: 1584px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 258px;
+  left: 707px;
+  border-radius: 80px;
+  background-color: var(--color-white);
+  width: 1681px;
+  height: 312px;
+}
+.groupChild {
+  position: absolute;
+  top: 134px;
+  left: 0;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-100);
+  width: 410.3px;
+  height: 1377px;
+}
+.flightChild1,
+.groupDiv {
+  position: absolute;
+  top: 217px;
+  left: 153px;
+  width: 475.5px;
+  height: 1584px;
+}
+.flightChild1 {
+  border-radius: var(--br-16xl) var(--br-16xl) 0 0;
+  background-color: var(--color-darkslategray-200);
+  width: 468px;
+  height: 385px;
+}
+.results25 {
+  position: absolute;
+  top: 624px;
+  left: 722px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-whitesmoke);
+  width: 685px;
+  height: 81px;
+}
+.groupInner {
+  top: 4px;
+  left: 7px;
+  background-color: var(--color-darkslategray-200);
+  width: 217px;
+  height: 71px;
+}
+.oneWay {
+  position: absolute;
+  top: 31px;
+  left: 63px;
+  color: var(--color-white);
+}
+.multiCity,
+.roundTrip {
+  position: absolute;
+  top: 29px;
+  left: 277px;
+  font-weight: 600;
+}
+.multiCity {
+  left: 499px;
+}
+.groupChild1,
+.rectangleParent {
+  position: absolute;
+  top: 441px;
+  left: 825px;
+  width: 685px;
+  height: 81px;
+}
+.groupChild1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-goldenrod);
+  width: 315px;
+}
+.search {
+  position: absolute;
+  top: 31px;
+  left: 111px;
+  font-weight: 600;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 442px;
+  left: 1925px;
+  width: 315px;
+  height: 81px;
+  color: var(--color-white);
+}
+.groupIcon {
+  position: absolute;
+  top: 1467px;
+  left: 165px;
+  width: 400px;
+  height: 400px;
+}
+.groupChild2,
+.groupChild3 {
+  position: absolute;
+  top: 0;
+  left: 304.9px;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-white);
+  width: 315px;
+  height: 59px;
+}
+.groupChild3 {
+  left: 35.9px;
+  width: 242px;
+}
+.filter,
+.nonStop,
+.ticketOfClass {
+  position: absolute;
+  font-weight: 500;
+}
+.nonStop {
+  top: 816px;
+  left: 67.9px;
+  font-size: var(--font-size-xl);
+}
+.filter,
+.ticketOfClass {
+  top: 15px;
+  left: 104.9px;
+  color: var(--color-darkslategray-100);
+}
+.ticketOfClass {
+  left: 349.9px;
+}
+.eparrowDownIcon {
+  position: absolute;
+  top: 17px;
+  left: 567.9px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0.9px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-100);
+  width: 661px;
+  height: 1027px;
+}
+.frameItem {
+  top: 1028.9px;
+  left: 661px;
+  border-radius: var(--br-16xl) var(--br-16xl) 0 0;
+  background-color: var(--color-darkslategray-200);
+  width: 660.9px;
+  height: 347.1px;
+  transform: rotate(179.99deg);
+  transform-origin: 0 0;
+}
+.frameInner {
+  position: absolute;
+  top: 703px;
+  left: 24.9px;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-goldenrod);
+  width: 200px;
+  height: 60px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 69.09%;
+  width: 100.39%;
+  top: 18.83%;
+  right: 0.39%;
+  bottom: 12.08%;
+  left: -0.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 44.67%;
+  width: 84.71%;
+  top: 26.96%;
+  right: 2.56%;
+  bottom: 28.37%;
+  left: 12.73%;
+}
+.fxemojiworldmapChild,
+.fxemojiworldmapItem,
+.materialSymbolsflightsmodeIcon {
+  position: absolute;
+  height: 12.63%;
+  width: 75.25%;
+  top: 146.25%;
+  right: -19.88%;
+  bottom: -58.88%;
+  left: 44.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fxemojiworldmapItem,
+.materialSymbolsflightsmodeIcon {
+  height: 56.48%;
+  width: 60.49%;
+  top: 16.7%;
+  right: 26.76%;
+  bottom: 26.82%;
+  left: 12.75%;
+}
+.materialSymbolsflightsmodeIcon {
+  height: 18.7%;
+  width: 21.76%;
+  top: 12.22%;
+  right: 35.47%;
+  bottom: 69.08%;
+  left: 42.77%;
+  object-fit: contain;
+}
+.newYork {
+  position: absolute;
+  top: 51.33%;
+  left: 6.25%;
+}
+.fxemojiworldmap,
+.mumbai {
+  position: absolute;
+  top: 56.66%;
+  left: 58.98%;
+}
+.fxemojiworldmap {
+  top: 141px;
+  left: 77.9px;
+  width: 512px;
+  height: 563px;
+  overflow: hidden;
+  opacity: 0.85;
+}
+.nonStop1 {
+  position: absolute;
+  top: 95px;
+  left: 242.9px;
+}
+.jfk,
+.moreStop,
+.oneStop {
+  position: absolute;
+  top: 721px;
+  left: 290.9px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.jfk,
+.moreStop {
+  left: 499.9px;
+}
+.jfk {
+  top: 83px;
+  left: 67.9px;
+  font-size: var(--font-size-26xl);
+}
+.from {
+  top: 44px;
+  left: 68.9px;
+}
+.bom,
+.from,
+.price,
+.to {
+  position: absolute;
+}
+.price {
+  top: 789px;
+  left: 25.9px;
+  font-size: var(--font-size-xl);
+}
+.bom,
+.to {
+  top: 44px;
+  left: 555.9px;
+}
+.bom {
+  top: 83px;
+  left: 485.9px;
+  font-size: var(--font-size-26xl);
+  font-weight: 500;
+}
+.frameChild1 {
+  position: absolute;
+  top: 824px;
+  left: 24.9px;
+  width: 592px;
+  height: 37px;
+}
+.unionIcon {
+  position: relative;
+  width: 76.9px;
+  height: 48.3px;
+  object-fit: contain;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 896px;
+  left: 97.9px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.45px;
+  text-align: center;
+}
+.div1 {
+  top: 895px;
+  left: 484.9px;
+}
+.frameDiv,
+.rectangleContainer {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  width: 661.9px;
+  height: 1029.1px;
+  font-size: var(--font-size-6xl);
+}
+.rectangleContainer {
+  top: 620px;
+  left: 1758.1px;
+  height: 1124.1px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.mumbaiBom,
+.newYorkJfk {
+  position: absolute;
+  top: 29px;
+  left: 76px;
+  font-weight: 600;
+}
+.mumbaiBom {
+  left: 451px;
+}
+.ionlocationSharpIcon,
+.ionlocationSharpIcon1 {
+  position: absolute;
+  top: 21px;
+  left: 30px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.ionlocationSharpIcon1 {
+  top: 20px;
+  left: 393px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 13px;
+  left: 288px;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray-200);
+  border: 6px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 53px;
+  height: 53px;
+}
+.mingcutetransfer3LineIcon {
+  position: absolute;
+  top: 16px;
+  left: 291px;
+  width: 45px;
+  height: 45px;
+  overflow: hidden;
+}
+.groupChild5,
+.rectangleParent1 {
+  position: absolute;
+  top: 294px;
+  left: 825px;
+  width: 685px;
+  height: 81px;
+}
+.groupChild5 {
+  top: 0;
+  left: 22.6px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-white);
+  width: 1058.7px;
+  height: 1027px;
+}
+.div2 {
+  position: absolute;
+  top: 18.5px;
+  left: 57.9px;
+  display: inline-block;
+  width: 989.4px;
+  height: 45.3px;
+  opacity: 0.3;
+}
+.groupChild6,
+.groupChild7 {
+  position: absolute;
+  top: 0;
+  left: 1047.3px;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke);
+  width: 57.9px;
+  height: 58.6px;
+}
+.groupChild7 {
+  left: 0;
+}
+.container,
+.group,
+.parent,
+.rectangleParent2 {
+  position: absolute;
+  top: 215.4px;
+  left: 1.3px;
+  width: 1105.2px;
+  height: 63.8px;
+}
+.container,
+.group,
+.rectangleParent2 {
+  top: 492.8px;
+  left: 8.8px;
+}
+.container,
+.rectangleParent2 {
+  top: 770.3px;
+  left: 0;
+}
+.rectangleParent2 {
+  top: 0;
+  width: 1114px;
+  height: 1027px;
+  font-size: var(--font-size-lg);
+  color: var(--color-silver);
+}
+.bom1,
+.div5 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.bom1 {
+  top: 29px;
+  left: 604.1px;
+  font-size: var(--font-size-11xl);
+  width: 70.9px;
+}
+.div5 {
+  top: 3px;
+  left: 919.6px;
+  width: 86.4px;
+}
+.simpleIconsemirates {
+  position: absolute;
+  top: 0;
+  left: 47.4px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.div6,
+.div7,
+.emirates,
+.jfk1 {
+  position: absolute;
+  display: inline-block;
+}
+.emirates {
+  top: 69px;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  width: 220.4px;
+}
+.div6,
+.div7,
+.jfk1 {
+  left: 255.8px;
+  width: 80.4px;
+}
+.jfk1 {
+  top: 23px;
+  font-size: var(--font-size-21xl);
+}
+.div6,
+.div7 {
+  top: 113px;
+}
+.div7 {
+  top: 111px;
+  left: 618.8px;
+  width: 83.8px;
+}
+.emirates1 {
+  top: 35px;
+  left: 414.8px;
+  font-size: var(--font-size-mini);
+  width: 89.9px;
+}
+.emirates1,
+.h20m,
+.nonStop2 {
+  position: absolute;
+  display: inline-block;
+}
+.h20m {
+  top: 68px;
+  left: 404px;
+  color: var(--color-darkgoldenrod);
+  width: 145px;
+}
+.nonStop2 {
+  top: 107px;
+  left: 393px;
+  width: 156px;
+}
+.groupChild12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 204.9px;
+  height: 72px;
+}
+.bookNow {
+  position: absolute;
+  top: 27px;
+  left: 54px;
+  font-weight: 600;
+  display: inline-block;
+  width: 123.8px;
+  height: 21px;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 71px;
+  left: 787.2px;
+  width: 204.9px;
+  height: 72px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.bomParent {
+  position: absolute;
+  top: 823px;
+  left: 46px;
+  width: 1006px;
+  height: 172px;
+}
+.simpleIconsemirates1 {
+  position: absolute;
+  top: 0;
+  left: 47.4px;
+  width: 82.2px;
+  height: 100px;
+  overflow: hidden;
+}
+.bomGroup {
+  position: absolute;
+  top: 32px;
+  left: 44px;
+  width: 1006px;
+  height: 172px;
+}
+.bom3 {
+  top: 26px;
+  left: 604.1px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 70.9px;
+}
+.airways,
+.bom3,
+.div11,
+.qatar {
+  position: absolute;
+  font-weight: 500;
+}
+.div11 {
+  top: 0;
+  left: 919.6px;
+  display: inline-block;
+  width: 86.4px;
+}
+.airways,
+.qatar {
+  font-family: var(--font-inknut-antiqua);
+}
+.qatar {
+  top: 66px;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 220.4px;
+}
+.airways {
+  top: 122px;
+  left: 42px;
+  font-size: var(--font-size-xl);
+}
+.div12,
+.div13,
+.jfk3 {
+  position: absolute;
+  left: 255.8px;
+  display: inline-block;
+  width: 80.4px;
+}
+.jfk3 {
+  top: 20px;
+  font-size: var(--font-size-21xl);
+}
+.div12,
+.div13 {
+  top: 110px;
+}
+.div13 {
+  top: 108px;
+  left: 618.8px;
+  width: 83.8px;
+}
+.emirates4 {
+  top: 32px;
+  left: 414.8px;
+  font-size: var(--font-size-mini);
+  width: 89.9px;
+}
+.emirates4,
+.h20m2,
+.nonStop4 {
+  position: absolute;
+  display: inline-block;
+}
+.h20m2 {
+  top: 65px;
+  left: 404px;
+  color: var(--color-darkgoldenrod);
+  width: 145px;
+}
+.nonStop4 {
+  top: 104px;
+  left: 393px;
+  width: 156px;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 68px;
+  left: 787.2px;
+  width: 204.9px;
+  height: 72px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.bomContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1006px;
+  height: 174px;
+}
+.simpleIconsqatarairways {
+  position: absolute;
+  top: 84px;
+  left: 170px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+.groupContainer {
+  position: absolute;
+  top: 278px;
+  left: 47px;
+  width: 1006px;
+  height: 174px;
+}
+.bom4,
+.div14 {
+  font-weight: 500;
+}
+.bom4 {
+  position: absolute;
+  top: 26px;
+  left: 625.1px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 70.9px;
+}
+.div14 {
+  top: 0;
+  left: 940.6px;
+  width: 86.4px;
+}
+.div14,
+.div15,
+.div16,
+.jfk4,
+.lufthansa {
+  position: absolute;
+  display: inline-block;
+}
+.lufthansa {
+  top: 66px;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  width: 241px;
+}
+.div15,
+.div16,
+.jfk4 {
+  left: 276.8px;
+  width: 80.4px;
+}
+.jfk4 {
+  top: 20px;
+  font-size: var(--font-size-21xl);
+}
+.div15,
+.div16 {
+  top: 110px;
+}
+.div16 {
+  top: 108px;
+  left: 639.8px;
+  width: 83.8px;
+}
+.emirates5 {
+  top: 32px;
+  left: 435.8px;
+  font-size: var(--font-size-mini);
+  width: 89.9px;
+}
+.emirates5,
+.h20m3,
+.nonStop5 {
+  position: absolute;
+  display: inline-block;
+}
+.h20m3 {
+  top: 65px;
+  left: 425px;
+  color: var(--color-darkgoldenrod);
+  width: 145px;
+}
+.nonStop5 {
+  top: 104px;
+  left: 414px;
+  width: 156px;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 68px;
+  left: 808.2px;
+  width: 204.9px;
+  height: 72px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.bomParent1 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  width: 1027px;
+  height: 169px;
+}
+.simpleIconslufthansa {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.groupParent,
+.groupParent1 {
+  position: absolute;
+  top: 553px;
+  left: 39px;
+  width: 1027px;
+  height: 195px;
+}
+.groupParent {
+  top: 715px;
+  left: 644px;
+  width: 1114px;
+  height: 1027px;
+  font-size: var(--font-size-6xl);
+}
+.frameChild2,
+.frameChild3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-darkslategray-100);
+  width: 475.5px;
+  height: 531px;
+}
+.frameChild3 {
+  top: 661px;
+  width: 475.4px;
+  height: 923px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 531px;
+  left: 61px;
+  width: 414px;
+  height: 130px;
+}
+.evasettings2OutlineIcon,
+.materialSymbolsLightdashboaIcon {
+  position: absolute;
+  top: 457px;
+  left: 96px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.evasettings2OutlineIcon {
+  top: 1053px;
+}
+.activeUsers {
+  position: absolute;
+  top: 1140px;
+  left: 97px;
+  font-size: 26px;
+  background: linear-gradient(#d6a217, #d6a217),
+    linear-gradient(#d6a217, #d6a217), linear-gradient(#d6a217, #d6a217),
+    linear-gradient(#d6a217, #d6a217), #d6a217;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.dashboard,
+.reports,
+.settings,
+.statistics,
+.wallet {
+  position: absolute;
+  top: 1064px;
+  left: 166px;
+  font-weight: 500;
+}
+.dashboard,
+.reports,
+.statistics,
+.wallet {
+  top: 952px;
+}
+.dashboard,
+.reports,
+.wallet {
+  top: 831px;
+}
+.dashboard,
+.wallet {
+  top: 713px;
+}
+.dashboard {
+  top: 468px;
+}
+.ericBenson {
+  position: absolute;
+  top: 255px;
+  left: 137px;
+  font-size: 32px;
+}
+.flights {
+  position: absolute;
+  top: 579px;
+  left: 166px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.etwalletIcon {
+  position: absolute;
+  top: 699px;
+  left: 96px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.materialSymbolsflightsmodeIcon1,
+.ouiappReportingIcon,
+.wpfstatisticsIcon {
+  position: absolute;
+  top: 823px;
+  left: 96px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.materialSymbolsflightsmodeIcon1,
+.wpfstatisticsIcon {
+  top: 942px;
+}
+.materialSymbolsflightsmodeIcon1 {
+  top: 574px;
+}
+.ellipseIcon,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  position: absolute;
+  top: 62px;
+  left: 147px;
+  border-radius: 50%;
+  width: 171px;
+  height: 178px;
+  object-fit: cover;
+}
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  top: 1187px;
+  left: 26px;
+  width: 95px;
+  height: 91px;
+}
+.frameChild5,
+.frameChild6 {
+  left: 86px;
+}
+.frameChild6 {
+  left: 146px;
+}
+.frameChild7 {
+  left: 206px;
+  object-fit: cover;
+}
+.frameChild7,
+.frameChild8,
+.frameChild9 {
+  position: absolute;
+  top: 1187px;
+  border-radius: 50%;
+  width: 95px;
+  height: 91px;
+}
+.frameChild8 {
+  left: 266px;
+  object-fit: cover;
+}
+.frameChild9 {
+  left: 326px;
+  background-color: var(--color-darkgoldenrod);
+  border: 6px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+}
+.b,
+.ericbensongmailcom {
+  position: absolute;
+  color: var(--color-white);
+}
+.ericbensongmailcom {
+  top: 299px;
+  left: 136px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.b {
+  top: 1215px;
+  left: 344px;
+}
+.flightInner1,
+.rectangleParent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 475.5px;
+  height: 1584px;
+}
+.flightInner1 {
+  top: 217px;
+  left: 153px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-whitesmoke);
+}
+.flight {
+  width: 100%;
+  position: relative;
+  background-color: #e3f2f1;
+  height: 1912px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-inter);
+}
